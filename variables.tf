@@ -5,5 +5,5 @@ variable "aws_region" {
 
 variable "bucket_name" {
   type    = string
-  default = "dummy-test-bucket-1234567890_decomtest007"  # Use unique name
+  default = "dummy-test-bucket-1234567890-decomtest007"  # Use unique name
 }
